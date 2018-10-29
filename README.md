@@ -25,9 +25,9 @@ This is a bookshelf app that allows users to manage a list of books that are cat
 
 ### How to Use
 The main app screen displays books stored on your bookshelf, categorized into:
-    * Currently Reading
-    * Read
-    * Want to Read
+* Currently Reading
+* Read
+* Want to Read
 Each book listing displays the Title and Author of the book. 
 
 By clicking on the arrow icon at the bottom right, you can update the category. Selecting 'None' will remove the book from your bookshelf. 
