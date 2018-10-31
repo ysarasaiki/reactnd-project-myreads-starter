@@ -47,7 +47,6 @@ class SearchBook extends Component {
 							placeholder="Search by title or author"
 							onChange = {(evt) => this.updateQuery(evt.target.value)}
 						/>
-						{}
 					</div>
 				</div>
 				<div className="search-books-results">

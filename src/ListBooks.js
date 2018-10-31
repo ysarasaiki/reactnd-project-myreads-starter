@@ -52,7 +52,7 @@ class ListBooks extends Component {
 												key={book.id}
 												book = {book}
 												updateShelf = {updateShelf}
-												shelf = {shelf}
+												shelf = {book.shelf}
 											/>
 										)}
 									</ol>
